@@ -25,6 +25,7 @@ public class test1 extends Applet
    tas=getParameter("tas");
    height=getParameter("height");
    class1=getParameter("class");
+   System.out.println("******");
      /*   String a=getParameter("age");
         age=Integer.parseInt(a);*/
     }
